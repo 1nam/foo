@@ -1,10 +1,2 @@
-# foo
-testing
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+:+1:  looks great - :shipit:
 ```
